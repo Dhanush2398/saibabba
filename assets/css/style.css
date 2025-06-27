@@ -5447,6 +5447,8 @@ p:last-child {
     left: 60%;
     transform: translateX(-50%);
     font-size: 18px;
+    top: 20%;
+    font-weight: 900;
   }
 }
 
@@ -5455,6 +5457,8 @@ p:last-child {
   .name {
     left: 55%;
     transform: translateX(-50%);
-    font-size: 20px;
+    font-size: 24px;
+    font-weight: 900;
+    top: 20%;
   }
 }
